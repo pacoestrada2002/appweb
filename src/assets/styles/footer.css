@@ -1,0 +1,16 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+footer{
+    
+    width: 100%;
+    
+    background-color: rgb(62, 36, 134);
+    
+    bottom: 0;
+    text-align: center;
+    border: 2px solid black;
+
+}

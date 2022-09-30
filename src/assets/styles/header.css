@@ -1,0 +1,22 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+
+
+
+header{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+ 
+    text-align: center;
+    border: 2px solid black;
+    background-color: rgb(62, 36, 134);
+    width: 100%;
+    height: 100px;
+    margin-top: -10px;
+    
+}
